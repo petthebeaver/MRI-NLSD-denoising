@@ -18,7 +18,7 @@ The algorithm consists mainly of three parts
 1. Variance-Stabilization Transformation
 
 <p align="center">
-  <img src="https://github.com/pettheberaver/mri-filtering/blob/main/images/vst.png" />
+  <img src="https://github.com/petthebeaver/MRI-NLSD-denoising/blob/89f8d5159969c510d0b74db8eac3836d17f26982/images/vst.png" />
 </p>
    
 2. KSVD matrix decomposition
