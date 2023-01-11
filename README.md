@@ -18,19 +18,19 @@ The algorithm consists mainly of three parts
 1. Variance-Stabilization Transformation
 
 <p align="center">
-  <img src="[https://github.com/pettheberaver/mri-filtering/blob/main/images/vst.png](https://github.com/petthebeaver/MRI-NLSD-denoising/blob/8db6b011043c0c6785576eb65549e728857cea73/images/vst.png)" />
+  <img src="https://github.com/pettheberaver/mri-filtering/blob/main/images/vst.png" />
 </p>
    
 2. KSVD matrix decomposition
 
 <p align="center">
-  <img src="https://github.com/pettheberaver/mri-filtering/blob/main/images/ksvd.png" />
+  <img src="https://github.com/petthebeaver/MRI-NLSD-denoising/blob/4c0610d7420743714830eb0f200c05496a0c4335/images/ksvd.png" />
 </p>
   
 3. None-local filtering
 
 <p align="center">
-  <img src="https://github.com/pettheberaver/mri-filtering/blob/main/images/nonlocal.png" />
+  <img src="https://github.com/petthebeaver/MRI-NLSD-denoising/blob/4c0610d7420743714830eb0f200c05496a0c4335/images/nonlocal.png" />
 </p>
   
 ## Pipeline
